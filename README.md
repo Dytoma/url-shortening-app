@@ -58,8 +58,8 @@ You can run `npm install` on your terminal to install all dependencies on your l
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Tailwind CSS](https://tailwindcss.com/) - React framework
-- [Framer Motion](https://www.framer.com/motion/) - For styles
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+- [Framer Motion](https://www.framer.com/motion/) - For animations
 - [Axios](https://axios-http.com/docs/intro) - For fetching data
 
 
