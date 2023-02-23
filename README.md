@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](url-shortening-app.png)
+![](./public/url-shortening-app.png)
 
 This is a screenshot of the whole page, some content aren't visible because of the animations. Apart this site is complete, mobile and desktop responsive. 
 
@@ -47,7 +47,7 @@ You can run `npm install` on your terminal to install all dependencies on your l
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/url-shortening-app-o3NKPZ3vV9)
 - Live Site URL: [Live site URL here](https://url-shortening-app8.netlify.app/)
 
 
